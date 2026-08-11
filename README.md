@@ -46,13 +46,11 @@
 
 ### My Github contributions summary
 
-
 <picture style="display: flex; align-items: flex-start;">
-   <img src="https://github-stats-extended.vercel.app/api?username=thanhquy185" alt="GitHub Streak" width="66%" />
-   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=thanhquy185&display_format=percent" alt="GitHub Streak" width="34%" />
+   <img src="https://github-stats-extended.vercel.app/api?username=thanhquy185&hide_border=true" alt="GitHub Streak" width="66%" />
+   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=thanhquy185&display_format=percent&hide_border=true" alt="GitHub Streak" width="34%" />
 </picture>
 
 <picture style="display: flex; justify-content: center;">
    <img src="https://github-readme-streak-stats.herokuapp.com?user=thanhquy185&theme=meta-light&hide_border=true" alt="GitHub Streak" width="60%" />
 </picture>
-
