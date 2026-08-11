@@ -46,11 +46,22 @@
 
 ### My Github contributions summary
 
-<picture style="display: flex; align-items: flex-start;">
-   <img src="https://github-stats-extended.vercel.app/api?username=thanhquy185&hide_border=true" alt="GitHub Streak" width="66%" />
-   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=thanhquy185&display_format=percent&hide_border=true" alt="GitHub Streak" width="34%" />
-</picture>
-
-<picture style="display: flex; justify-content: center;">
-   <img src="https://github-readme-streak-stats.herokuapp.com?user=thanhquy185&theme=meta-light&hide_border=true" alt="GitHub Streak" width="60%" />
-</picture>
+<div align="center">
+  <div>
+    <img
+      src="https://github-stats-extended.vercel.app/api?username=thanhquy185&hide_border=true"
+      alt="GitHub Stats"
+      width="64%"
+    />
+    <img
+      src="https://github-stats-extended.vercel.app/api/top-langs/?username=thanhquy185&display_format=percent&hide_border=true"
+      alt="Top Languages"
+      width="32%"
+    />
+  </div>
+    <img
+        src="https://github-readme-streak-stats.herokuapp.com?user=thanhquy185&theme=meta-light&hide_border=true"
+        alt="GitHub Streak"
+        width="60%"
+    />
+</div>
