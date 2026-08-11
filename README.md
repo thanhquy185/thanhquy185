@@ -1,9 +1,9 @@
 <div align="center">
   <img
-    src=".docs/images/sky.gif"
+    src=".docs/images/hero.gif"
     alt="GitHub Stats"
     width="100%"
-    height="400"
+    style="border-radius: 10px;"
   />
 </div>
 
