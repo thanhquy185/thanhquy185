@@ -16,11 +16,17 @@
 ### I'm Web Developer
 
 - 🌍  I'm based in Viet Nam
-- 👨‍🎓 Studied at Sai Gon University (SGU HCMC)
+- 👨‍🎓 Studying at Sai Gon University (SGU HCMC)
 - 🖥️  See my portfolio website at [tranthanhquy.vercel.app](https://tranthanhquy.vercel.app/)
 - ✉️  You can contact me via [thanhquyfu@gmail.com](mailto:thanhquyfu@gmail.com)
 
 ### When on school, I studied some languages, frameworks and tools
+
+#### Languages
+
+[![C++ Badge](https://img.shields.io/badge/-C%2B%2B-00599C?style=for-the-badge&labelColor=black&logo=cplusplus&logoColor=00599C)](#)
+[![C Sharp Badge](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&labelColor=black&logo=csharp&logoColor=239120)](#)
+[![Java Badge](https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&labelColor=black&logo=openjdk&logoColor=ED8B00)](#)
 
 #### Frontend
 
@@ -35,8 +41,6 @@
 
 #### Backend
 
-[![Java Badge](https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&labelColor=black&logo=openjdk&logoColor=ED8B00)](#)
-[![C Sharp Badge](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&labelColor=black&logo=csharp&logoColor=239120)](#)
 [![Spring Boot Badge](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=for-the-badge&labelColor=black&logo=springboot&logoColor=6DB33F)](#)
 [![.NET Badge](https://img.shields.io/badge/-.NET-512BD4?style=for-the-badge&labelColor=black&logo=dotnet&logoColor=512BD4)](#)
 
